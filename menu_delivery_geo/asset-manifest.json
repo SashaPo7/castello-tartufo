@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/menu_delivery_geo/static/css/main.4dd125ad.css",
+    "main.js": "/menu_delivery_geo/static/js/main.9a9bf2e6.js",
+    "static/media/JuliaMono-Regular.ttf": "/menu_delivery_geo/static/media/JuliaMono-Regular.20723df36d94e501326f.ttf",
+    "static/media/fon-menu.svg": "/menu_delivery_geo/static/media/fon-menu.fe38200c83546616ea44.svg",
+    "static/media/pattern.svg": "/menu_delivery_geo/static/media/pattern.0813ebeaea5e2fae82b5.svg",
+    "index.html": "/menu_delivery_geo/index.html",
+    "main.4dd125ad.css.map": "/menu_delivery_geo/static/css/main.4dd125ad.css.map",
+    "main.9a9bf2e6.js.map": "/menu_delivery_geo/static/js/main.9a9bf2e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd125ad.css",
+    "static/js/main.9a9bf2e6.js"
+  ]
+}

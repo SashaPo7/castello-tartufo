@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/menu_delivery_en/static/css/main.dcc98d86.css",
+    "main.js": "/menu_delivery_en/static/js/main.adda65ca.js",
+    "static/media/fon-menu.svg": "/menu_delivery_en/static/media/fon-menu.fe38200c83546616ea44.svg",
+    "static/media/pattern.svg": "/menu_delivery_en/static/media/pattern.0813ebeaea5e2fae82b5.svg",
+    "index.html": "/menu_delivery_en/index.html",
+    "main.dcc98d86.css.map": "/menu_delivery_en/static/css/main.dcc98d86.css.map",
+    "main.adda65ca.js.map": "/menu_delivery_en/static/js/main.adda65ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc98d86.css",
+    "static/js/main.adda65ca.js"
+  ]
+}
